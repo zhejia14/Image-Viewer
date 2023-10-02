@@ -6,3 +6,4 @@ Image 灰階化檢視器
 2.Close
 3.Rotate
 4.Gain
+5.Binarization
